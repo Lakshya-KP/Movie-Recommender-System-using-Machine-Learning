@@ -1,0 +1,6 @@
+### dependency
+streamlit
+nltk
+scikit-learn
+### local packages -
+-e . 
