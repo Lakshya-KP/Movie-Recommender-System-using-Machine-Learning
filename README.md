@@ -1,4 +1,3 @@
-Here is the corrected version of your README file with improved grammar, spelling corrections, and enhanced clarity where needed:
 
 ---
 
